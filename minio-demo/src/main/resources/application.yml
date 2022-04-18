@@ -1,0 +1,6 @@
+minio:
+ endpoint: http://10.225.7.5:9000
+ accesskey: minioadmin
+ secretKey: ldyminio
+server:
+  port: 9001
